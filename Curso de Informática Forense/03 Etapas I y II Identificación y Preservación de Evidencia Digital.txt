@@ -1,0 +1,22 @@
+03 Etapas I y II: Identificación y Preservación de Evidencia Digital
+
+RECURSOS
+TRANSCRIPCIÓN
+MARCADORES
+Comenzaremos con las primeras dos etapas de un proceso de investigación, las cuales son:
+
+Etapa 1 - Identificación: Detectaremos, reconoceremos y determinaremos las fuentes de información que deben ser preservadas para una investigación.
+– Puntos claves a tener en cuenta:
+— 6 Preguntas: ¿Cómo aplicar las 6 preguntas del proceso investigativo?
+— Preparación de herramientas: Un kit de herramientas adecuadas para hacer adquisiciones.
+— Primer respondiente: ¿Quién es y qué debe hacer?
+— Toma de decisiones: Adquisiciones “en vivo”, “estáticas”.
+– Los resultados de esta primera etapa son: cadena de custodia e inventario de fuentes.
+
+Etapa 2 - Preservación: Recolectaremos información de dispositivos de almacenamiento de datos, para generar copias exactas usando técnicas forenses.
+– Puntos claves a tener en cuenta:
+— Medios de almacenamiento: ¿Qué son?, ¿cuáles usamos comúnmente?, ¿cómo funcionan?
+— ¿Qué es una imagen forense?: Definición, ejemplos y uso común.
+— Adquisición de imágenes forenses: FTK Imager, Paladin Forensics, EnCase Imager, entre otras técnicas.
+— Algoritmos Hash: ¿Qué son y por qué los utilizamos?
+– Los resultados que obtendremos de esta etapa serán: imágenes forenses y reportes de adquisición y verificación.

@@ -1,0 +1,61 @@
+03 Qué son la ingeniería social y las reglas de compromiso
+
+
+
+¿Qué es la ingeniería social?
+
+Visentini (2006)
+
+Es una disciplina que consiste en sacar datos corporativos a otra persona, sin que ésta se dé cuenta de que está revelando “Información sensible”, y que normalmente no lo haría
+Borghello (2009)
+
+La ingeniería social puede definirse como una acción o conducta social destinada a conseguir información de las personas cercanas a un sistema.
+En General
+
+Se centra en lograr la confianza de las personas para luego engañarlas y manipularlas para el beneficio propio de quien la implementa.
+¿Qué puedo hacer con un poco de información?
+• Nombre y apellido
+• Dirección
+• Número de teléfono
+• Correo electrónico
+• Recibos de luz/agua
+
+- Crear una identidad falsa   |   - Tomar $$$ prestado
+- Hackear su correo           |   - Abusar del crédito
+electrónico                   |
+         Nombre,   | Dirección | Correo       | Teléfono  
+         Apellido  |           | electrónico  |
+- Crear un perfil falso en    |   -Exponerte a situaciones 
+Facebook                      |    embarazosas
+Ciclo de vida de la ingeniería social
+1.- Investigar
+- Reunir información de la víctima.
+- Determinar las debilidades de la víctima
+- Elegir un vector de ciberataque adecuado
+2.- Enganchar
+- Atrapar la atención de la víctima
+- Vender falsas promesas
+- Retener y manipular a la víctima
+3.-Actuar
+- Mantener la historia
+- Extraer información de la victima
+- Ejecutar el ciberataque para hacer uso de los datos obtenidos
+4.-Salir
+- Finalizar interacción con la víctima
+- Eliminar todo rastro de malware
+- Cubrir pistas y evidencias.
+Reglas del compromiso
+
+Cuando no es para un fin malicioso o hacer daño.
+Pruebas de penetración de red / autorizadas.
+Investi
+Comunicaciones públicas (cursos, bromas en vivo no ilegales).
+Aspectos legales y éticos
+Es legal llevar acabo pruebas de ingeniería social?
+Como tal en México no hay una ley que prohíba el uso de ataques de ingenieria social, es muy común encontrarse correos de phishing regularmente asociados a información bancaria en el que si eres victima de este tipo de ataque algunos bancos no se hacen responsables en realidad aportan mucho ofreciendo información para prevenir este tipo de “estafas” por eso es importante conocer sobre estos temas.
+El articulo 368 del código penal federal
+menciona
+I.- El apoderamiento o destrucción dolosa de una cosa propia mueble, si ésta se halla por cualquier título legítimo en poder de otra persona y no medie consentimiento; y
+II.- El uso o aprovechamiento de energía eléctrica, magnética, electromagnética, de cualquier fluido, o de cualquier medio de transmisión, sin derecho y sin consentimiento de la persona que legalmente pueda disponer de los mismos.
+
+Dada la modalidad y caracteristicas de las conductas, es dificil encontrar los ciberdelincuentes para ser procesados.

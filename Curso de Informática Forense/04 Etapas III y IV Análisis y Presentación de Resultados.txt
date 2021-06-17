@@ -1,0 +1,26 @@
+04 Etapas III y IV Análisis y Presentación de Resultados
+
+Continuaremos con las dos últimas etapas, las cuales son:
+
+Etapa 3- Análisis: Es el procesamiento de información relacionada con el objetivo de la investigación, con el fin de determinar hechos asociados con un evento.
+– Haremos: Análisis Preliminar, Análisis de Sistemas Windows y/o Análisis de Sistemas Unix.
+– Puntos claves a tener en cuenta:
+— Sistemas de Archivos: ¿Qué son?, ¿cuáles usamos comúnmente?, ¿cómo funcionan?
+— Creación de imágenes parciales: Clasificación de datos para análisis.
+— Exportado de archivos: Separación de información.
+— Análisis preliminar de Sistemas Operativos: Windows y Unix
+– Los resultados del Análisis Preliminar serán: información filtrada para análisis y reporte preliminar de análisis.
+– Puntos claves a tener en cuenta para sistemas operativos:
+— Análisis de usuarios de sistema: ¿Qué usuarios han estado activos en el sistema?
+— Análisis de logs y procesos ejecutados: Reconstrucción de la actividad del Sistema Operativo.
+— Recuperación de archivos borrados: Reconstrucción y procesos de data carving.
+— Artefactos específicos de Sistema: Diferencias entre Windows y Unix.
+– Los resultados del Análisis General serán: resultados generales de la investigación y posibles fuentes adicionales de consulta.
+
+Etapa 4 - Presentación: Entregaremos resultados, con un lenguaje adecuado, en forma de reportes a las partes interesadas o autoridades que los requieran.
+– Puntos claves a tener en cuenta:
+— Organización de la información: ¿Qué debemos incluir y qué no?, ¿cómo presentar los resultados y qué decir?
+— Creación de un informe técnico: ¿Qué detalles debemos incluir?
+— Creación de un informe ejecutivo: ¿Qué lenguaje debemos utilizar?, ¿cómo resumir nuestros hallazgos?
+— Presentación ante autoridades: Consejos y recomendaciones
+– Los resultados de la Presentación serán: informe técnico e informe ejecutivo.

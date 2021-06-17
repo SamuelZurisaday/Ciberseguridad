@@ -1,0 +1,39 @@
+Kit de adquisición
+
+Hardware:
+
+Laptop (Windows / Linux)
+Protectores contra escritura
+Cámara digital
+Discos duros externos
+
+Software:
+
+Linux Live USB: (Paladin Forensics / Kali / Otra)
+EnCase Imager
+FTK Imager Lite
+
+Herramientas:
+
+Kit de destornilladores
+Cables SATA e IDE
+Pinzas
+Linterna
+
+Papelería:
+
+Documentos y formatos impresos
+Notas de colores y banderitas
+Cinta de enmascarar
+Marcadores, bolígrafos y lápices
+Tijeras
+
+Otros:
+
+Bolsas anti-estática
+Precintos (velcro / plástico)
+Sobres
+Baterías
+Multitoma
+Hub USB
+Cargadores y cables extra
